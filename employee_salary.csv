@@ -1,0 +1,11 @@
+EmployeeID,Name,Age,Education Level,YearsExperience,JobTitle,Location,Salary
+1,John Smith,28,Bachelors,3,Software Engineer,New York,75000
+2,Alice Ray,35,Masters,10,Data Scientist,San Francisco,125000
+3,Bob Lee,40,PhD,15,Manager,Chicago,140000
+4,Carol Dan,25,Bachelors,2,Analyst,Seattle,60000
+5,Dan Wells,30,Masters,6,Software Engineer,Boston,95000
+6,Eva Black,38,Bachelors,12,Senior Analyst,New York,115000
+7,Gary White,45,Masters,20,Director,Austin,160000
+8,Helen Ford,27,Bachelors,4,Data Analyst,Chicago,70000
+9,Ian Stone,32,Masters,8,Data Engineer,Seattle,105000
+10,Jane Roe,29,Bachelors,5,Software Engineer,New York,85000
